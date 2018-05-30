@@ -1,0 +1,5 @@
+name: anaconda-darwin-1.6.9
+channels:
+  - defaults
+prefix: /anaconda3/envs/anaconda-darwin-1.6.9
+
